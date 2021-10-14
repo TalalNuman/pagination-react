@@ -1,0 +1,136 @@
+{
+
+    "articles": [
+
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": "BBC Sport",
+    "title": null,
+    "description": "England men's Ashes series in Australia this winter will go ahead \"subject to several critical conditions\", says the England and Wales Cricket Board.",
+    "url": "http://www.bbc.co.uk/sport/cricket/58788750",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/13590/production/_97584297_breaking_news.png",
+    "publishedAt": "2021-10-08T17:07:27.878367Z",
+    "content": "England men's Ashes series in Australia this winter will go ahead \"subject to several critical conditions\", says the England and Wales Cricket Board. \r\nEngland had concerns over their families being … [+2042 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+    "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+    "publishedAt": "2020-04-27T11:41:47Z",
+    "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+    "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+    "publishedAt": "2020-03-30T15:26:05Z",
+    "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    },
+    {
+        "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+        },
+        "author": "BBC Sport",
+        "title": "ECB gives 'conditional' Ashes approval",
+        "description": "England men's Ashes series in Australia this winter will go ahead \"subject to several critical conditions\", says the England and Wales Cricket Board.",
+        "url": "http://www.bbc.co.uk/sport/cricket/58788750",
+        "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/13590/production/_97584297_breaking_news.png",
+        "publishedAt": "2021-10-08T17:07:27.878367Z",
+        "content": "England men's Ashes series in Australia this winter will go ahead \"subject to several critical conditions\", says the England and Wales Cricket Board. \r\nEngland had concerns over their families being … [+2042 chars]"
+        },
+        {
+            "source": {
+            "id": null,
+            "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "“Twindemic” Threat: Ominous Flu Season Paired With COVID – What You Need To Know About Vaccination - SciTechDaily",
+            "description": "As winter looms and hospitals across the U.S. continue to be deluged with severe cases of COVID-19, flu season presents a particularly ominous threat this year. We are researchers with expertise in vaccination policy and mathematical modeling of infectious di…",
+            "url": "https://scitechdaily.com/twindemic-threat-ominous-flu-season-paired-with-covid-what-you-need-to-know-about-vaccination/",
+            "urlToImage": "https://scitechdaily.com/images/Hospital-Emergency.jpg",
+            "publishedAt": "2021-10-10T18:03:12Z",
+            "content": "A bad flu year on top of the pandemic could mean trouble for already-stressed hospitals.\r\nAs winter looms and hospitals across the U.S. continue to be deluged with severe cases of COVID-19, flu seaso… [+6891 chars]"
+            },
+            {
+            "source": {
+            "id": "cnn",
+            "name": "CNN"
+            },
+            "author": "Tami Luhby, CNN",
+            "title": "Unemployment benefits ended, but hiring did not surge in September - CNN",
+            "description": "Out-of-work Americans did not rush back into the job market after beefed-up unemployment benefits ended nationwide in September.",
+            "url": "https://www.cnn.com/2021/10/10/politics/unemployment-benefits-jobs-september/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211008150342-02-help-wanted-sign-super-tease.jpg",
+            "publishedAt": "2021-10-10T18:00:00Z",
+            "content": null
+            },
+            {
+            "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+            },
+            "author": "Cortney O'Brien",
+            "title": "CNN's Dana Bash takes dig at McAuliffe for obsessing over Trump during interview - Fox News",
+            "description": "CNN's Dana Bash took a shot at Virginia Democratic gubernatorial candidate Terry McAuliffe for mentioning former President Donald Trump several times by saying she was glad she had two cups with her so she could “keep drinking” each time he mentions Trump's n…",
+            "url": "https://www.foxnews.com/media/cnn-anchor-takes-dig-at-terry-mcauliffe-for-mentioning-trump-too-much",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/dana-bash-CNN.jpg",
+            "publishedAt": "2021-10-10T17:55:56Z",
+            "content": "CNN's Dana Bash took a shot at Virginia Democratic gubernatorial candidate Terry McAuliffe for mentioning former President Donald Trump several times by saying she was glad she had two cups with her … [+2795 chars]"
+            },
+            {
+            "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+            },
+            "author": null,
+            "title": "Tyson Fury knocks out Deontay Wilder to retain WBC title - CBS News",
+            "description": "\"It was a great fight,\" said Fury, the sport's lineal heavyweight champion and a former unified world champ.",
+            "url": "https://www.cbsnews.com/news/tyson-fury-deontay-wilder-3-results/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/10/10/48ec8a45-ed74-46b9-83ed-f9c5a3064a8c/thumbnail/1200x630/f8be070d2b2da4bb4191f59bf0e95cc6/gettyimages-1345773637.jpg",
+            "publishedAt": "2021-10-10T17:29:40Z",
+            "content": "Tyson Fury knocks down Deontay Wilder on October 9, 2021.\r\nAl Bello / Getty\r\nAfter three fights featuring nine combined knockdowns and a wealth of unforgettable moments, Tyson Fury finally ended his … [+5838 chars]"
+            },
+            {
+            "source": {
+            "id": "politico",
+            "name": "Politico"
+            },
+            "author": "David Cohen",
+            "title": "Maryland husband and wife arrested in nuclear submarine spy case - POLITICO",
+            "description": "The couple are accused of selling nuclear secrets, including on a SD card concealed in a peanut butter sandwich.",
+            "url": "https://www.politico.com/news/2021/10/10/maryland-husband-wife-arrested-espionage-case-515761",
+            "urlToImage": "https://static.politico.com/4d/f0/8040d5cd414ba1fd611e626497bd/211010-nuclear-submarine-ap-773.jpg",
+            "publishedAt": "2021-10-10T17:21:19Z",
+            "content": "Jonathan Toebbe, 42, is described as a nuclear engineer employed by the Navy. The DOJ said he and Diana, 45, first sent information in April to an unspecified country, offering a sample of restricted… [+1799 chars]"
+            },
+            {
+            "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+            },
+            "author": "Dawn Gilbertson, USA TODAY",
+            "title": "Southwest Airlines flight woes continue: 1,000 Sunday cancellations … and counting - Yahoo News",
+            "description": "Southwest has canceled 28% of its Sunday flights after canceling 24% on Saturday.",
+            "url": "https://www.usatoday.com/story/travel/airline-news/2021/10/10/southwest-airlines-flight-issues-cancellations/6080308001/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3JnF_5zwAiFyXj2xR8rPbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/uu/api/res/1.2/FvPRoRCpDnRqdMI0uwoGug--~B/aD0zMDI0O3c9NDAzMjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_travel_320/3907370de910bbf2753016bfdc61d31f",
+            "publishedAt": "2021-10-10T17:20:47Z",
+            "content": "Kathleen Miller was sleeping when the text from Southwest Airlines arrived at 1:18 a.m. Sunday.\r\nHer 7:30 a.m. flight from Phoenix to Dallas was canceled.\r\nThe Pennsylvania woman didn't see the text … [+5100 chars]"
+            }
+    ]
+    }
